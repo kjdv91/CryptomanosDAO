@@ -1,0 +1,16 @@
+{
+  "name": "dao",
+  "version": "1.0.0",
+  "description": "Dao ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Jaramillo",
+  "license": "ISC",
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^2.2.10",
+    "dotenv": "^16.0.1"
+  }
+}
